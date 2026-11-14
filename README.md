@@ -1,0 +1,27 @@
+# SORA ZEN 手機版電子菜單
+
+## 網站內容
+- 早餐、午餐、下午茶、晚餐及水吧飲品
+- 中英文菜名、價格、套餐升級、加購小食及飲品優惠
+- 搜尋、分類切換、手機自適應、原版 PDF 入口
+- 無後端、無資料庫，適用 GitHub Pages
+
+## 部署到現有 sorazen.hk 網站（建議網址 sorazen.hk/menu/）
+1. 打開目前供 sorazen.hk 使用的 GitHub repository。
+2. 在 repository 的網站根目錄建立 `menu` 資料夾。
+3. 將本壓縮檔 `sorazen-menu` 資料夾內的**全部內容**（index.html、style.css、app.js、menu-data.json、pdfs 資料夾）放入 `menu/`。
+4. Commit changes，等待 GitHub Pages 更新。
+5. 瀏覽 `https://sorazen.hk/menu/`；若原網站使用其他部署方式，需先確認 Pages 發布來源。
+
+請勿把原網站的 index.html 直接覆蓋；這個菜單應放在 `menu/` 子目錄。
+
+## 修改菜單
+在 `menu-data.json` 修改 `zh`（中文）、`en`（英文）、`price`（港幣）、`code`（編號）。飲品冷熱價使用 `{ "hot": 32, "iced": 34 }`。修改後 Commit 即更新。
+
+## 注意
+- 資料根據用戶提供的五份 PDF 整理。下午茶 PDF 的甜品編號跳過 M、N，本網站沒有自行補造。
+- 早餐 PDF 將「全日營養早餐」標為 08:00–11:00 only，網站依原菜單標示。
+- 午餐 PDF 同時列出「精選茶 +$3」和「特選茶飲 +$10」，網站保留兩者，建議店內確認適用條件。
+- PDF 的素食圖示未必代表所有配料均純素；網站沿用原標註，不另外推定認證或致敏原。
+- 所有圖片均未添加，以免使用不真實的食物照片。
+- 直接從電腦以 file:// 雙擊 index.html 時，瀏覽器可能禁止載入 JSON。可使用 `python3 -m http.server 8000` 在本地測試，然後開啟 http://localhost:8000/。

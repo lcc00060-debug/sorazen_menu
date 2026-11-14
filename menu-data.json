@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "breakfast",
+    "zh": "早餐",
+    "en": "Breakfast",
+    "time": "08:00–11:00",
+    "subtitle": "和風晨間元氣之選",
+    "sections": [
+      {
+        "title": "經典早餐丼飯",
+        "en": "Classic Breakfast Donburi",
+        "items": [
+          {
+            "zh": "經典早餐丼（雞）",
+            "en": "Classic Chicken Breakfast Donburi",
+            "price": 38,
+            "code": "A",
+            "tag": ""
+          },
+          {
+            "zh": "經典早餐丼（牛）",
+            "en": "Classic Beef Breakfast Donburi",
+            "price": 48,
+            "code": "B",
+            "tag": ""
+          },
+          {
+            "zh": "經典早餐丼（三文魚）",
+            "en": "Classic Salmon Breakfast Donburi",
+            "price": 58,
+            "code": "C",
+            "tag": ""
+          },
+          {
+            "zh": "經典早餐丼（鮮菇）",
+            "en": "Classic Mushroom Breakfast Donburi (Vegan Option)",
+            "price": 36,
+            "code": "D",
+            "tag": "素食選項／可走蛋"
+          }
+        ]
+      },
+      {
+        "title": "招牌全日早餐",
+        "en": "Signature All-Day Breakfast",
+        "items": [
+          {
+            "zh": "全日營養早餐",
+            "en": "All-Day Breakfast",
+            "price": 48,
+            "code": "E",
+            "tag": "08:00–11:00供應"
+          }
+        ]
+      },
+      {
+        "title": "手作三文治與吐司",
+        "en": "Sandwich & Toast",
+        "items": [
+          {
+            "zh": "煙燻三文魚三文治",
+            "en": "Smoked Salmon Sandwich",
+            "price": 42,
+            "code": "F",
+            "tag": ""
+          },
+          {
+            "zh": "牛油果蛋三文治",
+            "en": "Avocado Egg Sandwich",
+            "price": 34,
+            "code": "G",
+            "tag": ""
+          },
+          {
+            "zh": "法式吐司",
+            "en": "French Toast",
+            "price": 32,
+            "code": "H",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "清新水果輕食",
+        "en": "Fruit & Light Bites",
+        "items": [
+          {
+            "zh": "水果優格杯",
+            "en": "Fruit Yogurt Cup",
+            "price": 28,
+            "code": "I",
+            "tag": ""
+          },
+          {
+            "zh": "水果燕麥杯",
+            "en": "Fruit Oatmeal Cup",
+            "price": 28,
+            "code": "J",
+            "tag": ""
+          },
+          {
+            "zh": "田園水果沙律",
+            "en": "Garden Fruit Salad (Vegan)",
+            "price": 30,
+            "code": "K",
+            "tag": "純素"
+          }
+        ]
+      },
+      {
+        "title": "手作烘焙點心",
+        "en": "Handcrafted Bakery",
+        "items": [
+          {
+            "zh": "可頌窩夫",
+            "en": "Croffle",
+            "price": 28,
+            "code": "L",
+            "tag": ""
+          },
+          {
+            "zh": "牛油鬆餅",
+            "en": "Butter Scone",
+            "price": 24,
+            "code": "M",
+            "tag": ""
+          },
+          {
+            "zh": "朱古力鬆餅",
+            "en": "Chocolate Scone",
+            "price": 26,
+            "code": "N",
+            "tag": ""
+          }
+        ]
+      }
+    ],
+    "banners": [
+      "經典早餐丼飯附溫泉蛋、水果沙律及每日精選湯。",
+      "主食加購飲品：特選茶飲 +$10／鮮採果汁 +$15／指定咖啡或果茶氣泡飲 +$20；名單以外飲料減 $10。",
+      "早餐外賣加 $2；加配飲品外賣加 $1。"
+    ],
+    "addons": [],
+    "pdf": "pdfs/SORA ZEN 早餐精選與加配飲品菜單 (A3).pdf"
+  },
+  {
+    "id": "lunch",
+    "zh": "午餐",
+    "en": "Lunch",
+    "time": "11:00–15:00",
+    "subtitle": "和風精緻午膳",
+    "sections": [
+      {
+        "title": "午市精選主食",
+        "en": "Lunch Mains",
+        "items": [
+          {
+            "zh": "鹽麴燒雞肉飯",
+            "en": "Salt-Grilled Chicken Rice",
+            "price": 42,
+            "code": "A",
+            "tag": ""
+          },
+          {
+            "zh": "鹽麴燒雞腿飯",
+            "en": "Salt-Grilled Chicken Leg Rice",
+            "price": 45,
+            "code": "B",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞肉飯",
+            "en": "Secret Karaage Chicken Rice",
+            "price": 52,
+            "code": "C",
+            "tag": ""
+          },
+          {
+            "zh": "香煎一夜乾鴨胸肉飯",
+            "en": "Pan-Seared Overnight-Dried Duck Breast",
+            "price": 48,
+            "code": "D",
+            "tag": ""
+          },
+          {
+            "zh": "芝士漢堡扒飯",
+            "en": "Cheese Burger Steak Rice",
+            "price": 48,
+            "code": "E",
+            "tag": ""
+          },
+          {
+            "zh": "薑汁牛肉燒飯",
+            "en": "Ginger Beef Rice",
+            "price": 52,
+            "code": "F",
+            "tag": ""
+          },
+          {
+            "zh": "辣味噌大根燉牛臉頰飯",
+            "en": "Spicy Miso Braised Beef Cheek Rice",
+            "price": 62,
+            "code": "G",
+            "tag": ""
+          },
+          {
+            "zh": "慢烤牛肩胛肉眼飯",
+            "en": "Slow-Roasted Beef Shoulder Ribeye Rice",
+            "price": 68,
+            "code": "H",
+            "tag": ""
+          },
+          {
+            "zh": "鹽麴燒挪威三文魚飯",
+            "en": "Salt-Grilled Norwegian Salmon Rice",
+            "price": 68,
+            "code": "I",
+            "tag": ""
+          },
+          {
+            "zh": "味噌煮鯖魚飯",
+            "en": "Miso-Braised Mackerel Rice",
+            "price": 45,
+            "code": "J",
+            "tag": ""
+          },
+          {
+            "zh": "燉野菜飯",
+            "en": "Stewed Vegetables Rice (Vegan)",
+            "price": 42,
+            "code": "K",
+            "tag": "純素"
+          },
+          {
+            "zh": "秘製松露野菜飯",
+            "en": "Secret Truffle Vegetable Rice (Vegan)",
+            "price": 55,
+            "code": "L",
+            "tag": "純素"
+          }
+        ]
+      }
+    ],
+    "banners": [
+      "午市主食附優質米飯及特選配菜。",
+      "精選茶 +$3（原版菜單另列）；特選茶飲 +$10／果汁 +$15／指定咖啡及果茶 +$20；名單以外飲料減 $10。",
+      "定食外賣加 $2；加購飲品／小食外賣加 $1。"
+    ],
+    "addons": [
+      {
+        "title": "風味加配小料",
+        "en": "Sides",
+        "items": [
+          {
+            "zh": "溫泉蛋",
+            "en": "Onsen Tamago",
+            "price": 8,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "濃香咖哩醬",
+            "en": "Curry Sauce",
+            "price": 12,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "芝麻醬拌秋葵",
+            "en": "Okra w/ Sesame Dressing",
+            "price": 16,
+            "code": "",
+            "tag": "素食"
+          },
+          {
+            "zh": "醬燒雜菇",
+            "en": "Teriyaki Mixed Mushrooms",
+            "price": 18,
+            "code": "",
+            "tag": "素食"
+          },
+          {
+            "zh": "蟹肉茶碗蒸",
+            "en": "Crab Meat Chawanmushi",
+            "price": 18,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "日本南瓜薯餅",
+            "en": "Pumpkin Croquette",
+            "price": 19,
+            "code": "",
+            "tag": "素食"
+          },
+          {
+            "zh": "吉列炸蝦",
+            "en": "Fried Shrimp Cutlet",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞",
+            "en": "Secret Karaage Chicken",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "鹽麴燒雞肉",
+            "en": "Salt-Grilled Chicken",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞翼",
+            "en": "Secret Karaage Wings",
+            "price": 24,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "鹽麴燒雞腿",
+            "en": "Salt-Grilled Chicken Leg",
+            "price": 25,
+            "code": "",
+            "tag": ""
+          }
+        ]
+      }
+    ],
+    "pdf": "pdfs/SORA ZEN 午市定食與加配菜單 (A3版).pdf"
+  },
+  {
+    "id": "tea",
+    "zh": "下午茶",
+    "en": "Afternoon Tea",
+    "time": "15:00–17:00",
+    "subtitle": "和風午後輕食時光",
+    "sections": [
+      {
+        "title": "丼飯",
+        "en": "Donburi",
+        "items": [
+          {
+            "zh": "薑汁牛燒肉丼飯",
+            "en": "Ginger Beef Donburi",
+            "price": 58,
+            "code": "A",
+            "tag": ""
+          },
+          {
+            "zh": "牛油照燒雞肉丼飯",
+            "en": "Buttery Teriyaki Chicken Donburi",
+            "price": 42,
+            "code": "B",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞肉丼",
+            "en": "Secret Karaage Fried Chicken Donburi",
+            "price": 52,
+            "code": "C",
+            "tag": ""
+          },
+          {
+            "zh": "燉野菜丼飯",
+            "en": "Stewed Vegetables Donburi (Vegan)",
+            "price": 42,
+            "code": "D",
+            "tag": "純素"
+          }
+        ]
+      },
+      {
+        "title": "手作三文治與漢堡",
+        "en": "Sandwich & Burger",
+        "items": [
+          {
+            "zh": "牛油果煙燻三文魚多士",
+            "en": "Avocado & Smoked Salmon Toast",
+            "price": 38,
+            "code": "E",
+            "tag": ""
+          },
+          {
+            "zh": "厚切牛小排三文治",
+            "en": "Thick-Cut Short Rib Sandwich",
+            "price": 62,
+            "code": "F",
+            "tag": ""
+          },
+          {
+            "zh": "酥炸魚漢堡",
+            "en": "Fried Fish Burger",
+            "price": 48,
+            "code": "G",
+            "tag": ""
+          },
+          {
+            "zh": "酥炸軟殼蟹漢堡",
+            "en": "Fried Soft-Shell Crab Burger",
+            "price": 58,
+            "code": "H",
+            "tag": ""
+          },
+          {
+            "zh": "酥炸大啡菇漢堡",
+            "en": "Fried Portobello Mushroom Burger",
+            "price": 46,
+            "code": "I",
+            "tag": "素食"
+          }
+        ]
+      },
+      {
+        "title": "輕食甜品與鬆餅",
+        "en": "Sweets & Light Bites",
+        "items": [
+          {
+            "zh": "法式吐司",
+            "en": "French Toast",
+            "price": 32,
+            "code": "J",
+            "tag": ""
+          },
+          {
+            "zh": "水果優格杯",
+            "en": "Fruit Yogurt Cup",
+            "price": 28,
+            "code": "K",
+            "tag": ""
+          },
+          {
+            "zh": "水果燕麥杯",
+            "en": "Fruit Oatmeal Cup",
+            "price": 28,
+            "code": "L",
+            "tag": ""
+          },
+          {
+            "zh": "牛油鬆餅",
+            "en": "Butter Scone",
+            "price": 24,
+            "code": "O",
+            "tag": ""
+          },
+          {
+            "zh": "朱古力鬆餅",
+            "en": "Chocolate Scone",
+            "price": 26,
+            "code": "P",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "分享香脆小食",
+        "en": "Happy to Share",
+        "items": [
+          {
+            "zh": "秘製炸雞翼",
+            "en": "Secret Karaage Fried Chicken Wings",
+            "price": 24,
+            "code": "Q",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞",
+            "en": "Secret Karaage Fried Chicken",
+            "price": 22,
+            "code": "R",
+            "tag": ""
+          },
+          {
+            "zh": "炸薯條配明太子沙律醬",
+            "en": "French Fries with Mentai Mayo",
+            "price": 28,
+            "code": "S",
+            "tag": ""
+          },
+          {
+            "zh": "唐揚魷魚圈",
+            "en": "Karaage Squid Rings",
+            "price": 30,
+            "code": "T",
+            "tag": ""
+          }
+        ]
+      }
+    ],
+    "banners": [
+      "下午茶 A–I 套餐奉送新鮮沙律及精選茶。",
+      "加配溫泉蛋 +$8。",
+      "飲品加購：特選茶飲 +$10／鮮採果汁 +$15／指定咖啡及果茶 +$20；名單以外飲料減 $10。",
+      "套餐外賣加 $2；飲品外賣加 $1。"
+    ],
+    "addons": [],
+    "pdf": "pdfs/SORA ZEN 下午茶套餐與加配飲品菜單 (A3版).pdf"
+  },
+  {
+    "id": "dinner",
+    "zh": "晚餐",
+    "en": "Dinner",
+    "time": "17:00–20:00",
+    "subtitle": "和風暖心晚膳",
+    "sections": [
+      {
+        "title": "和風丼飯與精選肉食",
+        "en": "Donburi & Meat Mains",
+        "items": [
+          {
+            "zh": "鹽麴燒雞肉飯",
+            "en": "Salt-Grilled Chicken Rice",
+            "price": 42,
+            "code": "A",
+            "tag": ""
+          },
+          {
+            "zh": "栗子雞肉炊飯丼",
+            "en": "Chestnut Chicken Takikomi Don",
+            "price": 45,
+            "code": "B",
+            "tag": ""
+          },
+          {
+            "zh": "醬燒菇配溫泉蛋丼飯",
+            "en": "Mushrooms with Onsen Egg Donburi",
+            "price": 45,
+            "code": "C",
+            "tag": "素食"
+          },
+          {
+            "zh": "芝士漢堡扒飯",
+            "en": "Cheeseburger Steak Rice",
+            "price": 48,
+            "code": "D",
+            "tag": ""
+          },
+          {
+            "zh": "焗烤春雞飯",
+            "en": "Roasted Spring Chicken Rice",
+            "price": 58,
+            "code": "E",
+            "tag": ""
+          },
+          {
+            "zh": "醬燒金針菇肥牛丼飯",
+            "en": "Soy-Glazed Beef & Enoki Mushroom Donburi",
+            "price": 62,
+            "code": "F",
+            "tag": ""
+          },
+          {
+            "zh": "慢烤牛小排丼飯配溫泉蛋",
+            "en": "Slow-Roasted Short Rib Donburi w/ Onsen Egg",
+            "price": 78,
+            "code": "G",
+            "tag": ""
+          },
+          {
+            "zh": "炙燒封門牛丼飯配溫泉蛋",
+            "en": "Seared Hanger Steak Donburi w/ Onsen Tamago",
+            "price": 72,
+            "code": "H",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞肉飯",
+            "en": "Secret Karaage Crispy Chicken Rice",
+            "price": 52,
+            "code": "I",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "海鮮及和風天婦羅",
+        "en": "Seafood & Tempura",
+        "items": [
+          {
+            "zh": "鹽麴燒挪威三文魚飯",
+            "en": "Salt-Grilled Norwegian Salmon Rice",
+            "price": 68,
+            "code": "J",
+            "tag": ""
+          },
+          {
+            "zh": "炸蝦野菜天婦羅飯",
+            "en": "Shrimp & Vegetable Tempura Rice",
+            "price": 68,
+            "code": "K",
+            "tag": ""
+          },
+          {
+            "zh": "炸野菜天婦羅飯",
+            "en": "Vegetable Tempura Rice (Vegan)",
+            "price": 58,
+            "code": "L",
+            "tag": "純素"
+          }
+        ]
+      },
+      {
+        "title": "和風暖心鍋物",
+        "en": "Japanese Hot Pot",
+        "items": [
+          {
+            "zh": "雞肉清雞湯鍋",
+            "en": "Chicken Clear Soup Hot Pot",
+            "price": 68,
+            "code": "M",
+            "tag": ""
+          },
+          {
+            "zh": "壽喜燒牛肉鍋",
+            "en": "Sukiyaki Beef Hot Pot",
+            "price": 78,
+            "code": "N",
+            "tag": ""
+          },
+          {
+            "zh": "野菜豆腐豆漿鍋",
+            "en": "Vegetable Tofu Soy Milk Hot Pot",
+            "price": 68,
+            "code": "O",
+            "tag": "素食"
+          }
+        ]
+      }
+    ],
+    "banners": [
+      "升級套餐 A：沙律 + 每日精選湯，另加 $8。",
+      "升級套餐 B：沙律 + 特選茶飲，另加 $15。",
+      "飲品加購：特選茶飲 +$10／果汁 +$15／指定咖啡及果茶 +$20；名單以外飲料減 $10。",
+      "主食外賣加 $2；加購飲品／小食外賣加 $1。"
+    ],
+    "addons": [
+      {
+        "title": "晚市加購小食與配菜",
+        "en": "Set Add-ons & Sides",
+        "items": [
+          {
+            "zh": "咖哩醬",
+            "en": "Curry Sauce",
+            "price": 12,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "新鮮沙律",
+            "en": "Salad",
+            "price": 6,
+            "code": "",
+            "tag": "素食"
+          },
+          {
+            "zh": "每日精選湯",
+            "en": "Daily Special Soup",
+            "price": 6,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "吉列炸蝦",
+            "en": "Fried Shrimp Cutlet",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "吉列炸蠔",
+            "en": "Fried Oysters Cutlet",
+            "price": 26,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "吉列炸魚",
+            "en": "Fried Fish Cutlet",
+            "price": 20,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞翼",
+            "en": "Secret Karaage Crispy Chicken Wings",
+            "price": 24,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞",
+            "en": "Secret Karaage Crispy Chicken",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "芝麻醬拌秋葵",
+            "en": "Okra w/ Sesame Dressing",
+            "price": 16,
+            "code": "",
+            "tag": "素食"
+          },
+          {
+            "zh": "溫泉蛋",
+            "en": "Onsen Tamago",
+            "price": 8,
+            "code": "",
+            "tag": ""
+          }
+        ]
+      }
+    ],
+    "pdf": "pdfs/SORA ZEN 晚市定食與升級加配菜單 (A3版) (1).pdf"
+  },
+  {
+    "id": "drinks",
+    "zh": "飲品",
+    "en": "Drinks",
+    "time": "全日供應",
+    "subtitle": "職人手作水吧飲品",
+    "sections": [
+      {
+        "title": "職人現磨咖啡",
+        "en": "Coffee",
+        "items": [
+          {
+            "zh": "雙份特濃咖啡",
+            "en": "Double Espresso",
+            "price": {
+              "hot": 25
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "美式咖啡",
+            "en": "Americano",
+            "price": {
+              "hot": 25,
+              "iced": 27
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "黑咖啡",
+            "en": "Long Black",
+            "price": {
+              "hot": 25,
+              "iced": 27
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "泡沫咖啡",
+            "en": "Cappuccino",
+            "price": {
+              "hot": 30
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "澳白咖啡",
+            "en": "Flat White",
+            "price": {
+              "hot": 32
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "拿鐵咖啡",
+            "en": "Caffè Latte",
+            "price": {
+              "hot": 32,
+              "iced": 34
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "髒髒咖啡",
+            "en": "Dirty",
+            "price": {
+              "iced": 35
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "朱古力咖啡",
+            "en": "Mocha",
+            "price": {
+              "hot": 38,
+              "iced": 40
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "焦糖瑪奇朵",
+            "en": "Caramel Macchiato",
+            "price": {
+              "hot": 40,
+              "iced": 42
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "鮮橙特濃咖啡",
+            "en": "Espresso Orange",
+            "price": {
+              "iced": 38
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "西柚特濃咖啡",
+            "en": "Espresso Grapefruit",
+            "price": {
+              "iced": 38
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "蘋果特濃咖啡",
+            "en": "Espresso Apple",
+            "price": {
+              "iced": 38
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "椰子咖啡",
+            "en": "Espresso Coconut",
+            "price": {
+              "iced": 38
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "湯力咖啡",
+            "en": "Espresso Tonic",
+            "price": {
+              "iced": 38
+            },
+            "code": "",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "非咖啡拿鐵",
+        "en": "Non-Coffee Latte",
+        "items": [
+          {
+            "zh": "抹茶拿鐵",
+            "en": "Matcha Latte",
+            "price": {
+              "hot": 40,
+              "iced": 42
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "焙茶拿鐵",
+            "en": "Hojicha Latte",
+            "price": {
+              "hot": 40,
+              "iced": 42
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "紅茶拿鐵",
+            "en": "Black Tea Latte",
+            "price": {
+              "hot": 36,
+              "iced": 38
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "朱古力牛奶",
+            "en": "Chocolate Milk",
+            "price": {
+              "hot": 32,
+              "iced": 34
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "薄荷朱古力牛奶",
+            "en": "Mint Chocolate Milk",
+            "price": {
+              "hot": 36,
+              "iced": 38
+            },
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "開心果拿鐵",
+            "en": "Pistachio Latte",
+            "price": {
+              "hot": 48,
+              "iced": 50
+            },
+            "code": "",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "特調果茶與氣泡水",
+        "en": "Fruit Tea & Soda · Iced",
+        "items": [
+          {
+            "zh": "蜂蜜檸檬水",
+            "en": "Honey Lemon",
+            "price": 30,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "檸檬紅茶",
+            "en": "Lemon Black Tea",
+            "price": 35,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "蜂蜜檸檬茶",
+            "en": "Honey Lemon Black Tea",
+            "price": 35,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "洛神花蜜糖茶",
+            "en": "Roselle Honey Tea",
+            "price": 35,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "洛神花蜜桃氣泡水",
+            "en": "Hibiscus Peach Sparkling Water",
+            "price": 38,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "西柚烏龍氣泡水",
+            "en": "Grapefruit Oolong Sparkling Water",
+            "price": 38,
+            "code": "",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "鮮採果汁",
+        "en": "Fresh Juice · Iced",
+        "items": [
+          {
+            "zh": "清甜蘋果汁",
+            "en": "Apple Juice",
+            "price": 32,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "香甜橙汁",
+            "en": "Orange Juice",
+            "price": 32,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "清爽西柚汁",
+            "en": "Grapefruit Juice",
+            "price": 32,
+            "code": "",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "精選熱茶",
+        "en": "Tea Bag · Hot",
+        "items": [
+          {
+            "zh": "英式早餐茶",
+            "en": "English Breakfast Tea",
+            "price": 25,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "伯爵茶",
+            "en": "Earl Grey Tea",
+            "price": 25,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "洋甘菊茶",
+            "en": "Chamomile Tea",
+            "price": 25,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "薄荷茶",
+            "en": "Peppermint Tea",
+            "price": 25,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "茉莉花綠茶",
+            "en": "Jasmine Green Tea",
+            "price": 25,
+            "code": "",
+            "tag": ""
+          }
+        ]
+      }
+    ],
+    "banners": [
+      "凡惠顧任何主食，單點飲品一律減 $10。",
+      "奶類替換：脫脂奶免費；無乳糖奶／燕麥奶／豆奶／杏仁奶 +$3。",
+      "額外濃縮咖啡 Extra Espresso Shot +$6。",
+      "飲品外賣另加 $1。"
+    ],
+    "addons": [],
+    "pdf": "pdfs/SORA ZEN 水吧飲品中英文菜單 (A3版).pdf"
+  }
+]
