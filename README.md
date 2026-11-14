@@ -53,3 +53,6 @@
 
 
 V6：購餐指南已整合至首頁第七個 Tab，與其他菜單同頁切換；不需跳轉 ordering-guide.html。原獨立頁保留作舊連結相容。
+
+
+V7 更新：首頁地址增加 LG, Benjamin Franklin Centre；主標語改用 Noto Serif TC 宋體風格。其他菜單功能不變。
