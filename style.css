@@ -8,3 +8,15 @@
 @media(min-width:681px){.tabs{grid-template-columns:repeat(7,minmax(0,1fr))}}
 @media(max-width:680px){.tabs{grid-template-columns:repeat(4,minmax(0,1fr))}.tab-guide{grid-column:auto}.tab-zh{font-size:12px}.tab-en{font-size:9px}}
 @media(max-width:380px){.tab-zh{font-size:11px}.tab-en{font-size:8px}}
+
+/* V5: remove decorative emoji glyph that iOS renders as oversized green symbol */
+.hero::after{content:none!important;display:none!important}
+.hero .leaf{display:none!important}
+/* Sticky navigation must be outside the short toolbar container to stick across the whole menu. */
+.sticky-tabs-wrap{position:sticky;top:0;z-index:100;background:rgba(248,246,239,.97);padding:10px max(16px,calc((100vw - 984px)/2));box-shadow:0 3px 12px rgba(21,62,49,.10);border-bottom:1px solid #e3e7df;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
+.sticky-tabs-wrap .tabs{max-width:984px;margin:0 auto}
+.sticky-tabs-wrap .tab{padding:9px 3px 8px;border-radius:9px}
+.search-toolbar{max-width:1040px;margin:auto;padding:0 28px}
+.search-toolbar .searchbox{margin-top:18px}
+@media(max-width:680px){.sticky-tabs-wrap{padding:8px 12px}.sticky-tabs-wrap .tabs{grid-template-columns:repeat(4,minmax(0,1fr));gap:5px}.sticky-tabs-wrap .tab{padding:8px 1px 7px}.sticky-tabs-wrap .tab-zh{font-size:12px}.sticky-tabs-wrap .tab-en{font-size:9px}.search-toolbar{padding:0 16px}}
+@media(max-width:380px){.sticky-tabs-wrap .tab-zh{font-size:11px}.sticky-tabs-wrap .tab-en{font-size:8px}}
