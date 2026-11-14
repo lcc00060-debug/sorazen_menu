@@ -20,3 +20,10 @@
 .search-toolbar .searchbox{margin-top:18px}
 @media(max-width:680px){.sticky-tabs-wrap{padding:8px 12px}.sticky-tabs-wrap .tabs{grid-template-columns:repeat(4,minmax(0,1fr));gap:5px}.sticky-tabs-wrap .tab{padding:8px 1px 7px}.sticky-tabs-wrap .tab-zh{font-size:12px}.sticky-tabs-wrap .tab-en{font-size:9px}.search-toolbar{padding:0 16px}}
 @media(max-width:380px){.sticky-tabs-wrap .tab-zh{font-size:11px}.sticky-tabs-wrap .tab-en{font-size:8px}}
+
+/* V6: ordering guide is a real in-page menu tab */
+.search-toolbar[hidden]{display:none!important}
+.tab-guide.active{background:var(--forest);border-color:var(--forest);color:white}
+.guide-switch{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 24px}
+.guide-switch button{border:1px solid #c6d7ce;background:#fff;border-radius:24px;padding:12px 18px;font-weight:700;color:var(--forest)}
+.guide-switch button[aria-pressed="true"]{background:var(--forest);color:white}
