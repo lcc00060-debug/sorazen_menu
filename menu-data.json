@@ -771,28 +771,28 @@
           {
             "zh": "日式胡麻醬",
             "en": "Sesame Dressing",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "和風番茄汁",
             "en": "Tomato Dressing",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "香濃千島醬",
             "en": "Thousand Island",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "經典黑醋汁",
             "en": "Balsamic Vinaigrette",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           }
@@ -805,21 +805,21 @@
           {
             "zh": "特選通心麵",
             "en": "Macaroni",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "綿滑香薯蓉",
             "en": "Mashed Potatoes",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "烘烤吐司粒",
             "en": "Croutons",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           }
@@ -832,49 +832,49 @@
           {
             "zh": "嫩煮雞胸肉",
             "en": "Chicken Breast",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "煙燻三文魚",
             "en": "Smoked Salmon",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "深海鮪魚",
             "en": "Tuna",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "牛油果",
             "en": "Avocado",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": "🌱"
           },
           {
             "zh": "嫩豆腐",
             "en": "Tofu",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": "🌱"
           },
           {
             "zh": "元氣水煮蛋",
             "en": "Boiled Egg",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           },
           {
             "zh": "流心溫泉蛋",
             "en": "Onsen Egg",
-            "price": "包含",
+            "price": null,
             "code": "",
             "tag": ""
           }
