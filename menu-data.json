@@ -718,6 +718,228 @@
     "pdf": "pdfs/SORA ZEN 晚市定食與升級加配菜單 (A3版) (1).pdf"
   },
   {
+    "id": "salad",
+    "zh": "沙律吧",
+    "en": "Salad Bar",
+    "time": "11:00–19:30",
+    "subtitle": "日式健康沙律 · 主廚招牌或自選沙律",
+    "sections": [
+      {
+        "title": "選擇 1 · 經典主廚招牌沙律",
+        "en": "Signature Salads · Choose 1 Dressing & 1 Carb",
+        "items": [
+          {
+            "zh": "鹽麴燒雞肉沙律",
+            "en": "Grilled Shio Koji Chicken Salad",
+            "price": 48,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "炙燒牛小排沙律",
+            "en": "Seared Beef Short Rib Salad",
+            "price": 72,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "牛油果豆腐沙律",
+            "en": "Avocado and Tofu Salad",
+            "price": 46,
+            "code": "",
+            "tag": "🌱 VEGAN"
+          }
+        ]
+      },
+      {
+        "title": "選擇 2 · 自選沙律",
+        "en": "Build Your Own Salad · Fresh Greens & Seasonal Vegetables",
+        "items": [
+          {
+            "zh": "DIY 自選沙律",
+            "en": "Build Your Own Salad",
+            "price": 48,
+            "code": "",
+            "tag": "選 1 款醬汁 + 1 款主食 + 2 款主菜"
+          }
+        ]
+      },
+      {
+        "title": "步驟 A · 選 1 款醬汁",
+        "en": "Choose 1 Dressing",
+        "items": [
+          {
+            "zh": "日式胡麻醬",
+            "en": "Sesame Dressing",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "和風番茄汁",
+            "en": "Tomato Dressing",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "香濃千島醬",
+            "en": "Thousand Island",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "經典黑醋汁",
+            "en": "Balsamic Vinaigrette",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "步驟 B · 選 1 款主食",
+        "en": "Choose 1 Carb",
+        "items": [
+          {
+            "zh": "特選通心麵",
+            "en": "Macaroni",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "綿滑香薯蓉",
+            "en": "Mashed Potatoes",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "烘烤吐司粒",
+            "en": "Croutons",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          }
+        ]
+      },
+      {
+        "title": "步驟 C · DIY 選 2 款主菜",
+        "en": "DIY Only · Choose 2 Main Toppings",
+        "items": [
+          {
+            "zh": "嫩煮雞胸肉",
+            "en": "Chicken Breast",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "煙燻三文魚",
+            "en": "Smoked Salmon",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "深海鮪魚",
+            "en": "Tuna",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "牛油果",
+            "en": "Avocado",
+            "price": "包含",
+            "code": "",
+            "tag": "🌱"
+          },
+          {
+            "zh": "嫩豆腐",
+            "en": "Tofu",
+            "price": "包含",
+            "code": "",
+            "tag": "🌱"
+          },
+          {
+            "zh": "元氣水煮蛋",
+            "en": "Boiled Egg",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "流心溫泉蛋",
+            "en": "Onsen Egg",
+            "price": "包含",
+            "code": "",
+            "tag": ""
+          }
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "title": "隨沙律加購小食",
+        "en": "Salad Add-ons & Sides",
+        "items": [
+          {
+            "zh": "溫泉蛋／水煮蛋",
+            "en": "Onsen / Boiled Egg",
+            "price": 8,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "日本南瓜薯餅",
+            "en": "Pumpkin Croquette",
+            "price": 19,
+            "code": "",
+            "tag": "🌱"
+          },
+          {
+            "zh": "吉列炸蝦",
+            "en": "Fried Shrimp Cutlet",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞",
+            "en": "Secret Karaage Chicken",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "鹽麴燒雞肉",
+            "en": "Salt-Grilled Chicken",
+            "price": 22,
+            "code": "",
+            "tag": ""
+          },
+          {
+            "zh": "秘製炸雞翼",
+            "en": "Secret Karaage Wings",
+            "price": 24,
+            "code": "",
+            "tag": ""
+          }
+        ]
+      }
+    ],
+    "banners": [
+      "招牌沙律：主菜已定，請另選 1 款醬汁及 1 款飽腹主食。",
+      "DIY 自選沙律 $48：包含新鮮生菜底及時令蔬果；選 1 款醬汁、1 款主食及 2 款主菜。",
+      "沙律飲品加購：特選茶飲 +$10、鮮採果汁 +$15、現磨咖啡 +$20、果茶與氣泡水 +$20；另有「精選茶 +$3」標示，詳情請向店員確認。",
+      "名單以外飲品減 $10；飲品外賣另加 $1。"
+    ],
+    "pdf": "pdfs/SORA ZEN 沙律吧 3 張 A3 專屬指引水牌.pdf"
+  },
+  {
     "id": "drinks",
     "zh": "飲品",
     "en": "Drinks",
